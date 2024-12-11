@@ -1,0 +1,19 @@
+.container{
+    background-color: aqua;
+display: flex;
+height: 100vh;
+justify-content: flex-start;
+gap: 25px;
+justify-content: center;
+align-items: center;
+flex-wrap: wrap;
+
+}
+.class{
+    background-color: rgb(255, 0, 0);
+    width: 220px;
+    height: 150px;
+    margin-bottom: 5px;
+    
+
+}
