@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    
+}
+:root{
+    --primarycolor : #535ebf; 
+}
+
+nav{
+    background-color: #535ebf;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 8vh;
+}
+nav ul{
+    width: 25%;
+    font-size: 1rem;
+ background-color: rebeccapurple;
+    display: flex;
+    justify-content: space-evenly;
+}
