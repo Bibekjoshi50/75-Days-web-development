@@ -14,6 +14,7 @@ nav{
     justify-content: space-between;
     align-items: center;
     height: 8vh;
+    width: auto;
 }
 nav ul{
     width: 25%;
