@@ -2,10 +2,12 @@
     margin: 0;
     padding: 0;
     list-style: none;
+    font-size: 20px;
     
 }
 :root{
     --primarycolor : #535ebf; 
+    --textColor :gold
 }
 
 nav{
@@ -19,7 +21,17 @@ nav{
 nav ul{
     width: 25%;
     font-size: 1rem;
- background-color: rebeccapurple;
+ /* background-color: rebeccapurple; */
     display: flex;
+    font-size: 4rem;
     justify-content: space-evenly;
+    /* justify-items:flex-end; */
+}
+nav ul li{
+    color: var(--textColor)
+}
+
+nav ul li:hover{
+    cursor: pointer;
+    text-decoration: underline;
 }
