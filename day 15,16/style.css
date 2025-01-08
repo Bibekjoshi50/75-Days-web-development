@@ -7,7 +7,7 @@
 }
 :root{
     --primarycolor : #535ebf; 
-    --darkColor :rgb(163, 144, 38);
+    --darkColor :rgb(239, 213, 65);
     --lightColor : gold;
 
 }
@@ -30,7 +30,7 @@ nav ul{
     /* justify-items:flex-end; */
 }
 nav ul li{
-    color: var(--textColor)
+    color: var(--lightColor)
 }
 
 nav ul li:hover{
@@ -38,6 +38,7 @@ nav ul li:hover{
     text-decoration: underline;
 }
 nav h1{
-    font size: 2.5rem ;
-    color: aqua;
+    font-size: 2.5rem;
+    color:var(--darkColor) ;
+    
 }
