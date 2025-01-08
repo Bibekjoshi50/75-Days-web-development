@@ -7,11 +7,13 @@
 }
 :root{
     --primarycolor : #535ebf; 
-    --textColor :gold
+    --darkColor :rgb(163, 144, 38);
+    --lightColor : gold;
+
 }
 
 nav{
-    background-color: #535ebf;
+    background-color:var(--primarycolor);
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -34,4 +36,8 @@ nav ul li{
 nav ul li:hover{
     cursor: pointer;
     text-decoration: underline;
+}
+nav h1{
+    font size: 2.5rem ;
+    color: aqua;
 }
