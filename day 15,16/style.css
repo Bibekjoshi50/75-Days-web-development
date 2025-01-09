@@ -40,5 +40,11 @@ nav ul li:hover{
 nav h1{
     font-size: 2.5rem;
     color:var(--darkColor) ;
+    padding-left: 1rem;
     
+}
+nav h1 span{
+    font-size: 2.5rem;
+    color: var(--darkColor);
+    font-weight: 800;
 }
