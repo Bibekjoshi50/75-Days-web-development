@@ -83,3 +83,19 @@ nav h1 span{
 .left h1{
     font-size: 2rem;
 }
+
+
+.socialMedia{
+    border: 1px solid red;
+width: 10rem;
+display: flex;
+justify-content: space-evenly;
+
+}
+
+.socialMedia img{
+ height: 2rem;
+ /* width: 2rem; */
+ border-radius: 50%;
+ border: 1px solid red;
+}
