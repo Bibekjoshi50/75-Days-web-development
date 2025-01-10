@@ -99,3 +99,14 @@ justify-content: space-evenly;
  border-radius: 50%;
  border: 1px solid red;
 }
+.socialMediaNames{
+    border: solid rebeccapurple;
+    width: 10rem;
+    font-size: 15px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.socialMediaNames p{
+    font-size: 0.8rem;
+    display: flex;
+}
