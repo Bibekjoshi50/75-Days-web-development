@@ -86,7 +86,7 @@ nav h1 span{
 
 
 .socialMedia{
-    border: 1px solid red;
+    /* border: 1px solid red; */
 width: 10rem;
 display: flex;
 justify-content: space-evenly;
@@ -100,12 +100,12 @@ justify-content: space-evenly;
  border: 1px solid red;
 }
 .socialMediaNames{
-    border: solid rebeccapurple;
+    /* border: solid rebeccapurple; */
     width: 10rem;
     font-size: 15px;
     display: flex;
     justify-content: space-evenly;
-    margin-top: -20px;
+    margin-top: -1rem;
     
 }
 .socialMediaNames p{
