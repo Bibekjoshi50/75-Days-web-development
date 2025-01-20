@@ -127,3 +127,8 @@ justify-content: space-evenly;
     height: 40%;
     border-radius: 50% 20% / 10% 40%;
 }
+
+.services{
+    height: 100vh;
+   background-color: green; 
+}
