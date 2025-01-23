@@ -136,3 +136,8 @@ justify-content: space-evenly;
    grid-template-columns: repeat(3,1fr);
    gap: 1rem;
 }
+.services div{
+    height: 20rem;
+    border: 1px solid red;
+    display: flex;
+}
